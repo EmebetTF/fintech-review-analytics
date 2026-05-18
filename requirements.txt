@@ -1,0 +1,8 @@
+pandas
+numpy
+google-play-scraper
+python-dateutil
+pytest
+jupyter
+matplotlib
+seaborn

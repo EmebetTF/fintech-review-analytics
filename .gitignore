@@ -1,0 +1,11 @@
+# Python
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files
+data/
+*.csv
+*.db

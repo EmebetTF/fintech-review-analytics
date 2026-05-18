@@ -6,3 +6,12 @@ pytest
 jupyter
 matplotlib
 seaborn
+
+transformers
+torch
+scikit-learn
+nltk
+spacy
+textblob
+vaderSentiment
+wordcloud

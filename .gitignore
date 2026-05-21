@@ -9,3 +9,4 @@ env/
 data/
 *.csv
 *.db
+.github/workflows/unittests.yml

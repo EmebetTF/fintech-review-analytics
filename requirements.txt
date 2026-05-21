@@ -15,3 +15,6 @@ spacy
 textblob
 vaderSentiment
 wordcloud
+
+psycopg2-binary
+sqlalchemy
